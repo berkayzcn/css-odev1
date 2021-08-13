@@ -1,0 +1,22 @@
+.main-title{
+    color: white;
+    font-size: 37px;
+    text-align: center;
+}
+body {
+    background-image: url("https://photo-assets.wimbledon.com/images/pics/large/b_20210711_djokovic_celebration_JN3_3392-141520_682.jpg");
+}
+.size-color1{
+    color: white;
+    font-size: 25px;
+}
+
+.menu ul li {
+
+    display: inline-block;
+    color: white;
+    font-size: 20px;
+    border-top:5px solid #ffc400
+}
+
+     
